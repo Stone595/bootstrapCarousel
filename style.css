@@ -6,6 +6,10 @@
   
 }
 img{
-  height: 25rem;
-  width: 25rem;
+  height: 30rem;
+  width: 45rem;
+}
+.smallerPic{
+  height: 15rem;
+  width: 15rem;
 }
