@@ -1,0 +1,11 @@
+.mainArea{
+  
+  
+  display: flex;
+  justify-content: center;
+  
+}
+img{
+  height: 25rem;
+  width: 25rem;
+}
