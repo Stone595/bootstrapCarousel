@@ -1,13 +1,10 @@
-.mainArea{
-  
-  
+/* .mainArea{
   display: flex;
   justify-content: center;
-  
-}
+} */
 img{
   height: 30rem;
-  width: 45rem;
+  width: 80vw;
 }
 .smallerPic{
   height: 15rem;
